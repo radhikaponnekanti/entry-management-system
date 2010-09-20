@@ -1,3 +1,6 @@
+=Table of Contents=
+[http://code.google.com/p/entry-management-system/wiki/Business_Process_Definition_and_Requirements#1.0_Business Objectives for Process]
+
 =1.0 Business Objectives for Process=
 
    The traditional process of allowing a visitor into a premises is to verify the authentication of the vistor manually. This process involves security personnel of the premises.
