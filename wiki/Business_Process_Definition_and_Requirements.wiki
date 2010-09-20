@@ -23,9 +23,9 @@
 
 ==2.1 Process Flows==
 ===2.1.1 Existing or "As Is" Process Flow and Process Steps===
-http://entry-management-system.googlecode.com/files/Existing_Process.jpg
+http://entry-management-system.googlecode.com/files/Existing_Process1.jpg
 ===2.1.2 Proposed or "To Be" Process Flow and Process Steps===
-
+http://entry-management-system.googlecode.com/files/New_Process.jpg
 ==2.2 New Process Requirements==
 ====System Requirements====
 The application should run on all operating systems. System should also be available for use 24 hours a day, 7 days a week.
