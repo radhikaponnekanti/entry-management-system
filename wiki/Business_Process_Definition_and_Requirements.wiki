@@ -1,5 +1,4 @@
-
-
+#labels Thispageexplainsthebusinessprocessdefinitionandrequirementsoftheproject.
 =1.0 Business Objectives for Process=
 
    The traditional process of allowing a visitor into a premises is to verify the authentication of the vistor manually. This process involves security personnel of the premises.
