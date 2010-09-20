@@ -1,5 +1,8 @@
 =Table of Contents=
-[http://code.google.com/p/entry-management-system/wiki/Business_Process_Definition_and_Requirements#1.0_Business Objectives for Process]
+[http://code.google.com/p/entry-management-system/wiki/Business_Process_Definition_and_Requirements#1.0 1.0 Business Objectives for Process]
+
+[http://code.google.com/p/entry-management-system/wiki/Business_Process_Definition_and_Requirements#2.0 2.0 Business Requirements]
+  [http://code.google.com/p/entry-management-system/wiki/Business_Process_Definition_and_Requirements#2.1 2.1 Process Flows]
 
 =1.0 Business Objectives for Process=
 
