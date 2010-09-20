@@ -1,0 +1,85 @@
+#This page explains the business process definition and requirements of the project.
+
+=1.0 Business Objectives for Process=
+
+   The traditional process of allowing a visitor into a premises is to verify the authentication of the vistor manually. This process involves security personnel of the premises.
+
+   The Entry Management System performs this validation by using a software application without the presence of the staff. This system verifies the identity proof and purpose of visit, issues a visitor pass based on the accuracy of the information provided by the visitor, and then allows the visitor into premises.
+
+=2.0 Business Requirements=
+
+  * System should hold the details of all the employees working in the premises.
+  * Visitor should be able to enter all the details of the purpose of visit into the system.
+  * System should verify the identity proof of the visitor.
+  * System should verify with the person of contact whether the purpose of visit entered by the visitor is true.
+  * System should be able to print the visitors' pass and allow the visitor inside.
+  * System should store all the information related to the visitor for further use.
+  * System should generate a report with the details of the visitors on that particular day.
+  * System should be able to generate a report with the number of visitors for a selected period.
+
+==2.1 Process Flows==
+===2.1.1 Existing or "As Is" Process Flow and Process Steps===
+
+===2.1.2 Proposed or "To Be" Process Flow and Process Steps===
+
+==2.2 New Process Requirements==
+====System Requirements====
+The application should run on all operating systems. System should also be available for use 24 hours a day, 7 days a week.
+
+====Reporting Requirements====
+Daily report on the number of visitors should be generated and stored.
+
+====Data Requirements====
+All the details of the employees of the premises and visitors.
+
+====Security Requirements=====
+All the data captured should be secure.
+  * Administrator should have high level access, to manage the data.
+  * Visitors should have low level access, just to be able to enter their details.
+
+====Personnel Requirements====
+||Name||Role||
+||Radhika Ponnekanti||Administrator||
+||Aditya Aysola||Developer||
+
+====Support Requirements====
+||Name||Role||
+||Radhika Ponnekanti||Administrator||
+
+==2.3 Business Impact==
+By using a software application, the efficiency of handling visitors into the premises increases. It speeds up the process of verification and reduces the chance of human errors.
+===2.3.1 Metrics to Measure Business Impact===
+  * No manpower needed
+  * Details of a previous visitor will be readily available
+
+===2.3.2 Business Dependencies===
+  * System is dependent on the details of the employees stored.
+  * Visitors should enter accurate data into the system.
+
+===2.3.3 Business Risks===
+  * Visitors face difficulty using the system.
+  * System is unavailable affecting the entry of the visitors.
+
+==2.4 Technology Impact==
+  * Scanners, printers and camera are used
+
+===2.4.1 Technology Dependencies===
+  * Up-to-date working computer
+  * Scanner, printer and camera in working condition
+
+===2.4.2 Technology Risks===
+  * Computer crashes
+  * System is down
+  * Scanner, printer or camera not working
+  * Security breach
+
+=3.0 Assumptions=
+The following assumptions are essential to the previous business impact predictions.
+  * System has a user-friendly interface
+  * Visitors have basic computer knowledge to enter their details into the system
+=4.0 Issues=
+Efficiency of the system depends on the visitor's input and stored details of the employees.
+
+=5.0 Project Success Criteria=
+  * System should be available in a month.
+  * Requirements should be in clear and understandable documentation.
