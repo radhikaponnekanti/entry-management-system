@@ -23,7 +23,7 @@
 
 ==2.1 Process Flows==
 ===2.1.1 Existing or "As Is" Process Flow and Process Steps===
-http://entry-management-system.googlecode.com/files/Existing_Process1.jpg
+http://entry-management-system.googlecode.com/files/Existing_Process.jpg
 ===2.1.2 Proposed or "To Be" Process Flow and Process Steps===
 http://entry-management-system.googlecode.com/files/New_Process.jpg
 ==2.2 New Process Requirements==
