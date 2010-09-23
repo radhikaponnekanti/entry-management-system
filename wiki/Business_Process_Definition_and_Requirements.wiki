@@ -19,7 +19,7 @@
 
 ==2.1 Process Flows==
 ===2.1.1 Existing or "As Is" Process Flow and Process Steps===
-http://entry-management-system.googlecode.com/files/Existing%20process.jpg
+http://entry-management-system.googlecode.com/files/Existing_process_flow_and_steps.jpg
 ===2.1.2 Proposed or "To Be" Process Flow and Process Steps===
 http://entry-management-system.googlecode.com/files/New_Process.jpg
 ||Step||Description||Element used in process flow||
