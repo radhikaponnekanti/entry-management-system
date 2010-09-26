@@ -109,14 +109,14 @@ Efficiency of the system depends on the visitor's input and stored details of th
 
 http://entry-management-system.googlecode.com/files/Slide1.JPG
 
-==2.2 Understand the root causes-the problem behind the problem 
+==2.2 Understand the root causes-the problem behind the problem== 
 http://entry-management-system.googlecode.com/files/root%20cause%20diagram.jpg
 
-== 2.3 Identify the stakeholders and the users
+== 2.3 Identify the stakeholders and the users==
 http://entry-management-system.googlecode.com/files/Slide3.JPG
 
-==2.4 Define the solution system boundary
+==2.4 Define the solution system boundary==
 http://entry-management-system.googlecode.com/files/Slide4.JPG
 
-==2.5 Identify the constraints to be imposed on the solution
+==2.5 Identify the constraints to be imposed on the solution==
 http://entry-management-system.googlecode.com/files/Slide5.JPG
