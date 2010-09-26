@@ -108,3 +108,6 @@ Efficiency of the system depends on the visitor's input and stored details of th
 ==2.1 Gain agreement on the problem definition==
 
 http://entry-management-system.googlecode.com/files/Slide1.JPG
+
+==2.2 Understand the root causes-the problem behind the problem 
+http://entry-management-system.googlecode.com/files/root%20cause%20diagram.jpg
