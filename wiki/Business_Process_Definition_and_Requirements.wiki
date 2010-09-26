@@ -106,6 +106,5 @@ Efficiency of the system depends on the visitor's input and stored details of th
 *_The five steps in problem analysis_*
 
 ==2.1 Gain agreement on the problem definition==
-||_ELEMENT_||||_DESCRIPTION_||
 
-=
+http://entry-management-system.googlecode.com/files/Slide1.JPG
