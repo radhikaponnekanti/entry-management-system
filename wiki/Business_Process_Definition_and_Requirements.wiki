@@ -117,3 +117,6 @@ http://entry-management-system.googlecode.com/files/Slide3.JPG
 
 ==2.4 Define the solution system boundary
 http://entry-management-system.googlecode.com/files/Slide4.JPG
+
+==2.5 Identify the constraints to be imposed on the solution
+http://entry-management-system.googlecode.com/files/Slide5.JPG
