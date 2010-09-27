@@ -1,5 +1,5 @@
 = 2.TEAM SKILL 1 =
-*<h1> Analyzing the problem * </h1>
+_Analyzing the problem_
 
 
 The five steps in problem analysis are: 
