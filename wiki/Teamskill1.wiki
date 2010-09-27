@@ -1,13 +1,17 @@
 = 2.TEAM SKILL 1 =
-
-*<h2> Analyzing the problem * </h2>
+*<h1> Analyzing the problem * </h1>
 
 
 The five steps in problem analysis are: 
+
 1.Gain agreement on problem definition 
+
 2.Understand the root causes - problem behind the problem 
+
 3.Indentify stakeholders and users 
+
 4.Define the solution system boundary 
+
 5.Understand the constraints to be imposed on the solution 
 
 ==2.1 Gain agreement on the problem definition==
