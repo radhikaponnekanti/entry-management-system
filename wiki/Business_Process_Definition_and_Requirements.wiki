@@ -22,20 +22,8 @@
 http://entry-management-system.googlecode.com/files/EPF.jpg
 http://entry-management-system.googlecode.com/files/EPS.jpg
 ===2.1.2 Proposed or "To Be" Process Flow and Process Steps===
-http://entry-management-system.googlecode.com/files/New_Process.jpg
-||Step||Description||Element used in process flow||
-||1||Visitor comes to the premises||Start box||
-||2||Visitor enters the details||Visitor details box||
-||3||Verify the identity proof||Verify identity proof box||
-||4||Check if the visitor is new||New visitor box||
-||5||If new visitor, save all the details of the visitor, along with the purpose of visit||Save purpose of visit box||
-||6||If the visit is not first time, retrieve details||Retrieve details box||
-||7||Verify the purpose of visit||Verify purpose of visit||
-||8||If the purpose of visit is same as previous visit, confirm with the person of contact||Same as previous visit box and Confirm with person of contact box||
-||9||If the purpose of visit is changed, save the purpose of visit||Save purpose of visit box||
-||10||Confirm with the person of contact||Confirm with the person of contact box||
-||11||If the purpose of visit is confirmed, issue a visitor pass and allow the visitor||Issue visitor pass and allow box||
-||12||If the purpose of visit is not confirmed, deny the entry||Deny the entry box||
+http://entry-management-system.googlecode.com/files/NPFlow.jpg
+
 
 ==2.2 New Process Requirements==
 ====System Requirements====
