@@ -47,7 +47,7 @@ http://entry-management-system.googlecode.com/files/PR1.jpg
 http://entry-management-system.googlecode.com/files/SR1.jpg
 
 ==2.3 Business Impact==
-By using a software application, the efficiency of handling visitors into the premises increases. It speeds up the process of verification and reduces the chance of human errors.
+By using a software application, the efficiency of handling visitors into the building increases. It speeds up the process of verification and reduces the chance of human errors.
 ===2.3.1 Metrics to Measure Business Impact===
   * No manpower needed
   * Details of a previous visitor will be readily available
@@ -77,6 +77,8 @@ By using a software application, the efficiency of handling visitors into the pr
 The following assumptions are essential to the previous business impact predictions.
   * System has a user-friendly interface
   * Visitors have basic computer knowledge to enter their details into the system
+  * Visitors have a photo identity card
+
 =4.0 Issues=
 Efficiency of the system depends on the visitor's input and stored details of the employees.
 
