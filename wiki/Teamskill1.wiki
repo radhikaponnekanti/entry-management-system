@@ -3,5 +3,5 @@
     * [UnderstandingTheRootCauses#2.2_Understanding_The_Root_Causes 2.2 Understanding The Root Causes]
     * [IdentifyTheStakeholdersAndUsers#2.3_Identify_The_Stakeholders_And_Users 2.3 Identify The Stakeholders And Users]
     * [DefineTheSolutionSystemBoundary#2.4_Define_The_Solution_System_Boundary 2.4 Define The Solution System Boundary]
-                                                                                              * [IdentifyTheConstraintsToBeImposedOnTheSolution#2.5_Identify_The_Constraints_To_Be_
+    * [IdentifyTheConstraintsToBeImposedOnTheSolution#2.5_Identify_The_Constraints_To_Be_
 Imposed_On_The_Solution 2.5 Identify The Constraints To Be Imposed On The Solution]
