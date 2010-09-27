@@ -1,4 +1,7 @@
 * [Teamskill1#Team_Skill1 Team skill1]
-    * [BusinessProcessDefinition#1.0_Business_Objectives 1.0 Business Objectives]
-    * [BusinessProcessDefinition#2.0_Business_Requirements 2.0 Business Requirements]
-     * [BusinessProcessDefinition#2.1_Process_Flows 2.1 Process Flows]
+    * [GainAgreementOnTheProblemDefinition#2.1_Gain_Agreement_On_The_Problem_Definition 2.1 Gain Agreement On The Problem Definition]
+    * [UnderstandingTheRootCauses#2.2_Understanding_The_Root_Causes 2.2 Understanding The Root Causes]
+    * [IdentifyTheStakeholdersAndUsers#2.3_Identify_The_Stakeholders_And_Users 2.3 Identify The Stakeholders And Users]
+    * [DefineTheSolutionSystemBoundary#2.4_Define_The_Solution_System_Boundary 2.4 Define The Solution System Boundary]
+                                                                                              * [IdentifyTheConstraintsToBeImposedOnTheSolution#2.5_Identify_The_Constraints_To_Be_
+Imposed_On_The_Solution 2.5 Identify The Constraints To Be Imposed On The Solution]
