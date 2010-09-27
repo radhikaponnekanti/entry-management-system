@@ -15,8 +15,9 @@ The five steps in problem analysis are:
 5.Identify the constraints to be imposed on the solution 
 
 ==2.1 Gain agreement on the problem definition==
-Problem Statement
-Table:1 Problem for the people in the office
+*Problem Statement*
+
+Table:1 Problem Statement for the people in the office
 http://entry-management-system.googlecode.com/files/Slide1.JPG
 
 ==2.2 Understand the root causes-the problem behind the problem== 
