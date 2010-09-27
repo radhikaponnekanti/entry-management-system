@@ -1,2 +1,9 @@
 #summary wiki Page Links
 [http://code.google.com/p/entry-management-system/wiki/Business_Process_Definition_and_Requirements#1.0_Business_Objectives_for_Process 1.0 Business Objectives for Process]
+* [Teamskill1#Team_Skill1 Team skill1]
+    * [GainAgreementOnTheProblemDefinition#2.1_Gain_Agreement_On_The_Problem_Definition 2.1 Gain Agreement On The Problem Definition]
+    * [UnderstandingTheRootCauses#2.2_Understanding_The_Root_Causes 2.2 Understanding The Root Causes]
+    * [IdentifyTheStakeholdersAndUsers#2.3_Identify_The_Stakeholders_And_Users 2.3 Identify The Stakeholders And Users]
+    * [DefineTheSolutionSystemBoundary#2.4_Define_The_Solution_System_Boundary 2.4 Define The Solution System Boundary]
+    * [IdentifyTheConstraintsToBeImposedOnTheSolution#2.5_Identify_The_Constraints_To_Be_
+Imposed_On_The_Solution 2.5 Identify The Constraints To Be Imposed On The Solution]
