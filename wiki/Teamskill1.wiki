@@ -35,7 +35,9 @@ Table:2 Users survey
 http://entry-management-system.googlecode.com/files/users.JPG 
 
 Table:3 Stakeholder survey
-http://entry-management-system.googlecode.com/files/Slide4.JPG
+
+http://entry-management-system.googlecode.com/files/stakeholder.JPG
+
 
 
 ==2.4 Define the solution system boundary==
