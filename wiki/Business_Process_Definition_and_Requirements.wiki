@@ -23,7 +23,7 @@ http://entry-management-system.googlecode.com/files/EPF.jpg
 http://entry-management-system.googlecode.com/files/EPS.jpg
 ===2.1.2 Proposed or "To Be" Process Flow and Process Steps===
 http://entry-management-system.googlecode.com/files/NPFlow.jpg
-
+http://entry-management-system.googlecode.com/files/NPS.jpg
 
 ==2.2 New Process Requirements==
 ====System Requirements====
