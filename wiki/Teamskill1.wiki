@@ -37,4 +37,4 @@ http://entry-management-system.googlecode.com/files/Slide5.JPG
 
 ==2.5 Identify the constraints to be imposed on the solution==
 Table:4 Constraints on the entry management system
-http://entry-management-system.googlecode.com/files/Slide5.JPG
+http://entry-management-system.googlecode.com/files/Slide6.JPG
