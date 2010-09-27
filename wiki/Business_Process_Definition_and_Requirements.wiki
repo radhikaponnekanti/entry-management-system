@@ -2,17 +2,17 @@
 <wiki:toc max_depth='5'/>
 =1.0 Business Objectives for Process=
 
-   The traditional process of allowing a visitor into a premises is to verify the authentication of the vistor manually. This process involves security personnel of the premises.
+   The traditional process of allowing a visitor into an office building is to verify the authentication of the vistor manually. This process involves security personnel of the building.
 
-   The Entry Management System performs this validation by using a software application without the presence of the staff. This system verifies the identity proof and purpose of visit, issues a visitor pass based on the accuracy of the information provided by the visitor, and then allows the visitor into premises.
+   The Entry Management System performs this validation by using a software application without the presence of the staff. This system verifies the identity proof and reason of visit, issues a visitor pass based on the accuracy of the information provided by the visitor, and then allows the visitor into the building.
 
 =2.0 Business Requirements=
 
-  * System should hold the details of all the employees working in the premises.
-  * Visitor should be able to enter all the details of the purpose of visit into the system.
+  * System should hold the details of all the employees working in the building.
+  * Visitor should be able to enter all the details like his name, address, phone number, reason of visit and person of contact into the system.
   * System should verify the identity proof of the visitor.
-  * System should verify with the person of contact whether the purpose of visit entered by the visitor is true.
-  * System should be able to print the visitors' pass and allow the visitor inside.
+  * System should verify with the person of contact whether the reason of visit entered by the visitor is true.
+  * System should be able to print the visitor's pass and allow the visitor inside.
   * System should store all the information related to the visitor for further use.
   * System should generate a report with the details of the visitors on that particular day.
   * System should be able to generate a report with the number of visitors for a selected period.
@@ -33,7 +33,7 @@ The application should run on all operating systems. System should also be avail
 Daily report on the number of visitors should be generated and stored.
 
 ====Data Requirements====
-All the details of the employees of the premises and visitors.
+All the details of the employees of the building and visitors.
 
 ====Security Requirements=====
 All the data captured should be secure.
