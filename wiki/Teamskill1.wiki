@@ -1,3 +1,5 @@
+
+<wiki:toc max_depth='5'/>
 = 2.TEAM SKILL 1 =
 _*Analyzing the problem*_
 
