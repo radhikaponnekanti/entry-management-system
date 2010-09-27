@@ -27,7 +27,9 @@ http://entry-management-system.googlecode.com/files/Slide2.JPG
 
 == 2.3 Identify the stakeholders and the users==
 The following are the stakeholders and users for the software
+Table:2 Users survey
 http://entry-management-system.googlecode.com/files/Slide3.JPG
+Table:3 Stakeholder survey
 http://entry-management-system.googlecode.com/files/Slide4.JPG
 
 
