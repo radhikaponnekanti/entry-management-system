@@ -31,7 +31,8 @@ http://entry-management-system.googlecode.com/files/fishbone.JPG
 The following are the stakeholders and users for the software
 
 Table:2 Users survey
-http://entry-management-system.googlecode.com/files/Slide3.JPG
+http://entry-management-system.googlecode.com/files/users.JPG 
+
 Table:3 Stakeholder survey
 http://entry-management-system.googlecode.com/files/Slide4.JPG
 
