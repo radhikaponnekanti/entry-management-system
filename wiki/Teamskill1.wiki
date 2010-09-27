@@ -12,7 +12,7 @@ The five steps in problem analysis are:
 
 4.Define the solution system boundary 
 
-5.Understand the constraints to be imposed on the solution 
+5.Identify the constraints to be imposed on the solution 
 
 ==2.1 Gain agreement on the problem definition==
 
