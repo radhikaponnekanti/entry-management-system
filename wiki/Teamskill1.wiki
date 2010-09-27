@@ -22,7 +22,7 @@ http://entry-management-system.googlecode.com/files/Slide1.JPG
 
 ==2.2 Understand the root causes-the problem behind the problem== 
 By using the fishbone diagram we can identify the problems
-http://entry-management-system.googlecode.com/files/root%20cause%20diagram.jpg
+http://entry-management-system.googlecode.com/files/Slide2.Jpg
 
 == 2.3 Identify the stakeholders and the users==
 The following are the stakeholders and users for the software
