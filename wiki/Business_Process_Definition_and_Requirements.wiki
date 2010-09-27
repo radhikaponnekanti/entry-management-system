@@ -41,13 +41,10 @@ All the data captured should be secure.
   * Visitors should have low level access, just to be able to enter their details.
 
 ====Personnel Requirements====
-||Name||Role||
-||Radhika Ponnekanti||Administrator||
-||Aditya Aysola||Developer||
+http://entry-management-system.googlecode.com/files/PR1.jpg
 
 ====Support Requirements====
-||Name||Role||
-||Radhika Ponnekanti||Administrator||
+http://entry-management-system.googlecode.com/files/SR1.jpg
 
 ==2.3 Business Impact==
 By using a software application, the efficiency of handling visitors into the premises increases. It speeds up the process of verification and reduces the chance of human errors.
