@@ -17,7 +17,7 @@ The five steps in problem analysis are:
 ==2.1 Gain agreement on the problem definition==
 *Problem Statement*
 
-Table:1 Problem Statement for the people in the office
+Table:1 Problem Statement for the Employees in an organization
 http://entry-management-system.googlecode.com/files/Slide1.JPG
 
 ==2.2 Understand the root causes-the problem behind the problem== 
