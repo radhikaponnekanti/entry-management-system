@@ -18,7 +18,8 @@ The five steps in problem analysis are:
 *Problem Statement*
 
 Table:1 Problem Statement for the Employees in an organization
-http://entry-management-system.googlecode.com/files/Slide1.JPG
+http://entry-management-system.googlecode.com/files/diagrams.jpg
+
 
 ==2.2 Understand the root causes-the problem behind the problem== 
 By using the fishbone diagram we can identify the problems
