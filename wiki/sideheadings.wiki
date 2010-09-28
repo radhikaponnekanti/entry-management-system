@@ -12,6 +12,7 @@
     * [BusinessProcessDefinition#2.3_Business_Impact 2.3 Business Impact]
       * [BusinessProcessDefinition#2.3.1_Metrics_to_Measure_Business_Impact 2.3.1 Metrics to Measure Business Impact]
       * [BusinessProcessDefinition#2.3.2_Business_Dependencies 2.3.2 Business Dependencies]
+      * [BusinessProcessDefinition#2.3.3_Business_Risks 2.3.3 Business Risks]
  * [Teamskill1#2.0_Team_Skill_1 2.Team skill 1]
   * [Teamskill1#2.1_Gain_agreement_on_the_problem_definition 2.1 Gain Agreement On The Problem Definition]
   * [Teamskill1#2.2_Understand_the_root_causes-the_problem_behind_the_problem 2.2 Understand the root causes-the problem behind the problem]
