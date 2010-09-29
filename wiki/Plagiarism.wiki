@@ -1,4 +1,5 @@
 #summary Plagiarism Assignment
+<wiki:toc max_depth='5'/>
 
 ==Plagiarism Definition==
 
