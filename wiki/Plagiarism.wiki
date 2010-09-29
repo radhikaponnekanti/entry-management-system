@@ -36,3 +36,6 @@ According to Merriam-Webster Online Dictionary, *to plagiarize* means^(1)^:
 ==Plagiarism in Our Own Project==
 
 Project idea is our own, but we might have used some sentences from previous semester projects without citing them.
+
+==References==
+  # Merriam-Webster Online Dictionary ([http://www.merriam-webster.com/dictionary/plagiarize])
