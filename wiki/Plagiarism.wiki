@@ -40,3 +40,4 @@ Project idea is our own, but we might have used some sentences from previous sem
 ==References==
   # Merriam-Webster Online Dictionary ([http://www.merriam-webster.com/dictionary/plagiarize])
   # Plagiarism.org ([http://www.plagiarism.org/index.html])
+  # Purdue Online Writing Lab ([http://owl.english.purdue.edu/owl/resource/589/02/])
