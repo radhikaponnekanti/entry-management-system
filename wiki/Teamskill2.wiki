@@ -4,6 +4,20 @@
 The following are the techniques used to understand user and stakeholders needs:
 
 ===1.Interviews===
+In the interview session the following are discussed:
+
+what is required for this system?
+* There should not be any security person to check the person who are entering into an office
+* There should be an automated calling system ,so that whenever a new person wants to enter into the office for meeting a particular person in the office the system should automatically call
+* System should be user-friendly
+
+What are the security issues?
+* The system should check the authorization of persons who are entering into an office
+* The system should run 24hours,7 days a week 
+
+
+
+
 
 2.Workshops
 
