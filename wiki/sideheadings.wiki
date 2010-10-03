@@ -35,5 +35,4 @@
   * [Teamskill1#2.4_Define_the_solution_system_boundary 2.4 Define the solution system boundary]
   * [Teamskill1#2.5_Identify_the_constraints_to_be_imposed_on_the_solution 2.5 Identify the constraints to beimposed on the solution]
  * [Teamskill2#3.0_Team_Skill_2 3.Team skill 2]
-  * [Teamskill2#Understanding_User_And_Stakeholder_Needs UnderstandingUserAndStakeholder
-Needs
+  
