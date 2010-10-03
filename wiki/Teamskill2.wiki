@@ -17,8 +17,9 @@ What are the security issues?
   * The system should check the authorization of persons who are entering into an office
   * The system should run 24hours,7 days a week 
 
-
-
+What about access permission?
+  *There should be different access permissions provided to different persons who are working in the office
+ 
 
 
 2.Workshops
