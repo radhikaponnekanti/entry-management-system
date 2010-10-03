@@ -1,8 +1,9 @@
 <wiki:toc max_depth='5'/>
-== 2.TEAM SKILL 2 ==
-===Understanding User and Stakeholder Needs===
+= 2.TEAM SKILL 2 =
+==Understanding User and Stakeholder Needs==
+The following are the techniques used to understand user and stakeholders needs:
 
-1.Interviews
+===1.Interviews===
 
 2.Workshops
 
