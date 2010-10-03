@@ -19,6 +19,13 @@ What are the security issues?
 
 What about access permission?
   * There should be different access permissions provided to different persons who are working in the office
+  * Administrator should be given high level of access permissions so that he can give the authorizations who are entering into the office.
+
+What are the limitations?
+
+  * Every operating system should support the software.
+  * The system should work 24*7
+
  
 
 
