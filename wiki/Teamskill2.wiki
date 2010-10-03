@@ -5,8 +5,13 @@ The following are the techniques used to understand user and stakeholders needs:
 
 ===1.Interviews===
 In the interview session the following are discussed:
+What is the problem in present scenario?
+  * Manually checking the authority of a person who wants to enter into the office.
+  * Manually maintaining the records
+  * Security is not focused properly
+  * Its a time taking process
 
-what is required for this system?
+what is required for this system to solve the problem?
 
   * There should not be any security person to check the person who are entering into an office
   * There should be an automated calling system ,so that whenever a new person wants to enter into the office for meeting a particular person in the office the system should automatically call
@@ -26,6 +31,9 @@ What are the limitations?
   * Every operating system should support the software.
   * The system should work 24*7
 
+How much time and cost you are expecting?
+
+  * The cost should be affordable and the system should be built within six months.
  
 
 
