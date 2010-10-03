@@ -1,7 +1,11 @@
 <wiki:toc max_depth='5'/>
 == 2.TEAM SKILL 2 ==
-=Understanding User and Stakeholder Needs=
+===Understanding User and Stakeholder Needs===
+
 1.Interviews
+
 2.Workshops
+
 3.Brainstorming and idea reduction
+
 4.Storyboarding
