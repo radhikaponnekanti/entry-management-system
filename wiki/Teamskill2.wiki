@@ -17,6 +17,15 @@ what is required for this system to solve the problem?
   * There should be an automated calling system ,so that whenever a new person wants to enter into the office for meeting a particular person in the office the system should automatically call
  * System should be user-friendly
 
+who are the users?
+
+  * Employees working in the office and the visitors who wants to enter into the office.
+
+What is their educational background?
+
+  * Employees are educationally qualified and they have the knowledge of operating the system
+  * The system should give the guidelines of its usage to the new visitors.
+ 
 What are the security issues?
 
   * The system should check the authorization of persons who are entering into an office
