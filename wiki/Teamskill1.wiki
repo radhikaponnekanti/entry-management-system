@@ -43,7 +43,7 @@ http://entry-management-system.googlecode.com/files/stakeholder.JPG
 
 ==2.4 Define the solution system boundary==
 The Administration and visitors for a office(company) interacts with the entry management system
-http://entry-management-system.googlecode.com/files/system1.JPG
+http://entry-management-system.googlecode.com/files/system123.JPG
 
 
 ==2.5 Identify the constraints to be imposed on the solution==
