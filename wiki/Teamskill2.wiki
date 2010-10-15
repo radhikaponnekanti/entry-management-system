@@ -70,5 +70,6 @@ How much time and cost you are expecting?
 ===2.0 The Requirements Workshop===
 
 Several users and stakeholders attended the requirements workshop
-
+2.1 Attendees of Entry Management System Requirements Workshop
+http://entry-management-system.googlecode.com/files/workshop.JPG
  
