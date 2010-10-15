@@ -73,4 +73,16 @@ Several users and stakeholders attended the requirements workshop
 
 2.1 Attendees of Entry Management System Requirements Workshop
 http://entry-management-system.googlecode.com/files/workshop.JPG
+
+2.2 Warm-Up session 
+The warm up session consisted the following :
+* A memo encouraging the users and stakeholders to be creative 
+* Agenda
+* Copies of selected interviews that have been conducted 
+* A summarized list of the needs that had been identified to date
+
+2.3 The Session
+
+The session was done in a class room after 6pm at the Gannon University. Pattison introduced the agenda for the meeting and the rules for the session. 
+Figure A provides a perspective on the workshop
  
