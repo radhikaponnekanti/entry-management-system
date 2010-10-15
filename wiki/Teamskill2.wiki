@@ -1,7 +1,25 @@
 <wiki:toc max_depth='5'/>
 = 3.TEAM SKILL 2 =
 ==Understanding User and Stakeholder Needs==
-The following is one of the technique used to understand user and stakeholders needs:
+===1.0 Summary of User Needs as Collected from Interviews===
+Interview involved the visitors who visits the organization and the administrator who maintains the database.The following are the outcomes from the interview:
+1.1 From visitors point of view:
+ * System should provide access control privilege
+ * System must be Attractive 
+ * System should be user friendly
+ * Must be reliable
+ * System should correctly authorize the users
+ * System should provide boarding pass only to the authorized users
+
+1.2 From administrator point of view
+ * The Database Access is only given administrator
+ * System should not incur any additional cost realted to physical infrastructure.
+ * System should not increase time spent on data entry.
+ * System shall provide access to manage(create, update, delete) the data
+ * Recovery option, at the times of human bugs and system crash.
+ * Ability to monitor software success
+ * System should keep track of past information
+
 
 ===1.Interviews===
 In the interview session the following are discussed:
