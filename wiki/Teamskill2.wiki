@@ -75,11 +75,13 @@ Several users and stakeholders attended the requirements workshop
 http://entry-management-system.googlecode.com/files/workshop.JPG
 
 2.2 Warm-Up session 
+
 The warm up session consisted the following :
-* A memo encouraging the users and stakeholders to be creative 
-* Agenda
-* Copies of selected interviews that have been conducted 
-* A summarized list of the needs that had been identified to date
+
+ * A memo encouraging the users and stakeholders to be creative 
+ * Agenda
+ * Copies of selected interviews that have been conducted 
+ * A summarized list of the needs that had been identified to date
 
 2.3 The Session
 
