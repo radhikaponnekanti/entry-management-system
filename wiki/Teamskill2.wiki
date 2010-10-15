@@ -3,6 +3,7 @@
 ==Understanding User and Stakeholder Needs==
 ===1.0 Summary of User Needs as Collected from Interviews===
 Interview involved the visitors who visits the organization and the administrator who maintains the database.The following are the outcomes from the interview:
+
 1.1 From visitors point of view:
  * System should provide access control privilege
  * System must be Attractive 
