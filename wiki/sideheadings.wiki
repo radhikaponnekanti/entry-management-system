@@ -42,4 +42,5 @@
    * [Teamskill2#2.0_The_Requirements_Workshop 2.0 The Requirements Workshop]
    * [Teamskill2#2.1_Attendees_of_Entry_Management_System_Requirements_Workshop 2.1 Attendees of Entry Management System Requirements Workshop]
    * [Teamskill2#2.2_Warm_Up_session 2.2 Warm Up session]
-    
+   * [Teamskill2#2.3_The_session 2.3 The session]
+    * [Teamskill2#2.3.1_Entry_Management_System_Requirements_Workshop 2.3.1 Entry Management System Requirements Workshop]
