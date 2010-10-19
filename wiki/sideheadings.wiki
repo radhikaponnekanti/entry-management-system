@@ -37,9 +37,9 @@
  * [Teamskill2#3.0_Team_Skill_2 3.Team skill 2]
    * [Teamskill2#1.0_Summary_of_User_Needs_as_Collected_from_Interviews 1.0 Summary of User Needs as Collected from Interviews ]
     * [Teamskill2#1.1_From_visitors_point_of_view 1.1 From visitors point of view]
-    * [Teamskill2#1.2_From_administrator_point_of_view 1.1 From administrator point of view]
-    * [Teamskill2#1.1_From_employees_point_of_view 1.1 From employees point of view]
+    * [Teamskill2#1.2_From_administrator_point_of_view 1.2 From administrator point of view]
+    * [Teamskill2#1.3_From_employees_point_of_view 1.3 From employees point of view]
    * [Teamskill2#2.0_The_Requirements_Workshop 2.0 The Requirements Workshop]
    * [Teamskill2#2.1_Attendees_of_Entry_Management_System_Requirements_Workshop 2.1 Attendees of Entry Management System Requirements Workshop]
-   * [Teamskill2#2.2_Warm_Up_session 2.2_Warm_Up_session]
+   * [Teamskill2#2.2_Warm_Up_session 2.2 Warm Up session]
     
