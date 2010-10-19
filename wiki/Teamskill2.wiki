@@ -1,10 +1,10 @@
 <wiki:toc max_depth='5'/>
 = 3.TEAM SKILL 2 =
 ==Understanding User and Stakeholder Needs==
-===1.0 Summary of User Needs as Collected from Interviews===
+==1.0 Summary of User Needs as Collected from Interviews==
 Interview involved the visitors who visits the organization, the employees and the administrator who maintains the database.The following are the outcomes from the interview:
 
-1.1 From visitors point of view:
+===1.1 From visitors point of view:===
  * System should provide access control privilege
  * System must be Attractive 
  * System should be user friendly
@@ -12,7 +12,7 @@ Interview involved the visitors who visits the organization, the employees and t
  * System should correctly authorize the users
  * System should provide boarding pass 
 
-1.2 From administrator point of view
+===1.2 From administrator point of view===
  * The Database Access is only given administrator
  * System should not incur any additional cost realted to physical infrastructure.
  * System should not increase time spent on data entry.
@@ -21,13 +21,13 @@ Interview involved the visitors who visits the organization, the employees and t
  * Ability to monitor software success
  * System should keep track of past information
 
-1.3 From employees point of view
+===1.3 From employees point of view===
  * System should check the authorization of every visitor
  * System should not allow any visitor without checking(that is,every visitor should fill the details related to him), so that if any security problems occur then thry can check the details of visitors easily
  * System should provide security so that no data should be loss from from organization
  * Should call to the employee when new visitor arrives
  
-1.4 Interview notes
+===1.4 Interview notes===
 
 What is the problem in present scenario?
   * Manually checking the authority of a person who wants to enter into the office.
@@ -68,14 +68,15 @@ How much time and cost you are expecting?
   * The cost should be affordable and the system should be built within one months.
 
 
-===2.0 The Requirements Workshop===
+==2.0 The Requirements Workshop==
 
 Several users and stakeholders attended the requirements workshop
 
-2.1 Attendees of Entry Management System Requirements Workshop
+===2.1 Attendees of Entry Management System Requirements Workshop===
+
 http://entry-management-system.googlecode.com/files/workshop.JPG
 
-2.2 Warm-Up session 
+===2.2 Warm-Up session===
 
 The warm up session consisted the following :
 
@@ -84,26 +85,28 @@ The warm up session consisted the following :
  * Copies of selected interviews that have been conducted 
  * A summarized list of the needs that had been identified to date
 
-2.3 The Session
+===2.3 The Session===
 
 The session was done in a class room after 6pm at the Gannon University. Pattison introduced the agenda for the meeting and the rules for the session. 
 
-2.3.1 Figure A provides a perspective on the workshop
+===2.3.1 Figure A provides a perspective on the workshop===
 
 http://entry-management-system.googlecode.com/files/wrksp.JPG
 
-2.3.2 Setting the Agenda
+===2.3.2 Setting the Agenda===
 
 Agenda for  Entry Management System Workshop
 http://entry-management-system.googlecode.com/files/session.JPG
 
-2.4 The Analysis of the Results
-2.4.1 Features Collected at the Requirements Workshop
+===2.4 The Analysis of the Results===
+
+===2.4.1 Features Collected at the Requirements Workshop===
+
 http://entry-management-system.googlecode.com/files/features.JPG
 
-===3.0 Use-Case Model Survey===
+==3.0 Use-Case Model Survey==
 
-3.1 Use Cases for the Entry management system Project
+===3.1 Use Cases for the Entry management system Project===
 
 http://entry-management-system.googlecode.com/files/usec.JPG
  
