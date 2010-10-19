@@ -44,3 +44,6 @@
    * [Teamskill2#2.2_Warm_Up_session 2.2 Warm Up session]
    * [Teamskill2#2.3_The_session 2.3 The session]
     * [Teamskill2#2.3.1_Entry_Management_System_Requirements_Workshop 2.3.1 Entry Management System Requirements Workshop]
+    * [Teamskill2#2.3.2_Setting_the_Agenda 2.3.2 Setting the Agenda] 
+   * [Teamskill2#2.4_The_Analysis_of_the_Results 2.4 The Analysis of the Results]
+    * [Teamskill2#2.4.1_Features_Collected_at_the_Requirements_Workshop 2.4.1 Features Collected at the Requirements Workshop]
