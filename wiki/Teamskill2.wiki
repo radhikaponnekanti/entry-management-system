@@ -89,7 +89,7 @@ The warm up session consisted the following :
 
 The session was done in a class room after 6pm at the Gannon University. Pattison introduced the agenda for the meeting and the rules for the session. 
 
-===2.3.1 Figure A provides a perspective on the workshop===
+===2.3.1 Entry Management System Requirements Workshop Structure===
 
 http://entry-management-system.googlecode.com/files/wrksp.JPG
 
