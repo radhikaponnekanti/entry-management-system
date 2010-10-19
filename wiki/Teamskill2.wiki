@@ -1,6 +1,6 @@
 <wiki:toc max_depth='5'/>
 = 3.TEAM SKILL 2 =
-==Understanding User and Stakeholder Needs==
+=Understanding User and Stakeholder Needs=
 ==1.0 Summary of User Needs as Collected from Interviews==
 Interview involved the visitors who visits the organization, the employees and the administrator who maintains the database.The following are the outcomes from the interview:
 
