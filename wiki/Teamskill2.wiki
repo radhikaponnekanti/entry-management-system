@@ -10,7 +10,7 @@ Interview involved the visitors who visits the organization, the employees and t
  * System should be user friendly
  * Must be reliable
  * System should correctly authorize the users
- * System should provide boarding pass only to the authorized users
+ * System should provide boarding pass 
 
 1.2 From administrator point of view
  * The Database Access is only given administrator
@@ -25,7 +25,8 @@ Interview involved the visitors who visits the organization, the employees and t
  * System should check the authorization of every visitor
  * System should not allow any visitor without checking(that is,every visitor should fill the details related to him), so that if any security problems occur then thry can check the details of visitors easily
  * System should provide security so that no data should be loss from from organization
-
+ * Should call to the employee when new visitor arrives
+ 
 1.4 Interview notes
 
 What is the problem in present scenario?
