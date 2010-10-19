@@ -95,4 +95,6 @@ Agenda for  Entry Management System Workshop
 http://entry-management-system.googlecode.com/files/session.JPG
 
 http://entry-management-system.googlecode.com/files/features.JPG
+
+http://entry-management-system.googlecode.com/files/usec.JPG
  
