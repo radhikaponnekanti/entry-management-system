@@ -94,7 +94,12 @@ The session was done in a class room after 6pm at the Gannon University. Pattiso
 Agenda for  Entry Management System Workshop
 http://entry-management-system.googlecode.com/files/session.JPG
 
+2.4 The Analysis of the Results
+2.4.1 Features Collected at the Requirements Workshop
 http://entry-management-system.googlecode.com/files/features.JPG
+
+3.0 Use-Case Model Survey
+3.1 Use Cases for the Entry management system Project
 
 http://entry-management-system.googlecode.com/files/usec.JPG
  
