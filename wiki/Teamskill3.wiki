@@ -76,7 +76,7 @@ Release of phase 1 is likely to take 2 months i.e. phase 1 should be ready for a
 The requirements analyzed are handed over to the software team to start the elaboration phase for all the requirements that are feasible and clear in requirement statement. 
 
 
-=4.5 Product Features==
+==4.5 Product Features==
 ===4.5.1 Job Seeker Profile Search===
 ===4.5.2 Job Seeker Account===
 ===4.5.3 Job Provider Account===
