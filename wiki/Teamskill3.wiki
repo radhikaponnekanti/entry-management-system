@@ -1,13 +1,5 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+4.0 Team Skill 3¶
+4.1 Introduction¶
+This document maps out the user needs and features of the Kareer Mart System. 
+4.1.1 Purpose of Vision Document¶
+Kareer Mart aims to provide both Job Seekers and Recruiters the tools to actively manage their job search and recruitment needs respectively. This document defines all expected high-level functionality of the Kareer Mart system. 
