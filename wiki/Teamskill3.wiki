@@ -96,7 +96,10 @@ No licensing or installation will be required. The only security required is the
  * The Guidelines of the system must be provided inbuilt in the system.  
 
 ==4.7 Documentation Requirements==
-===4.7.1 Online Help Index===
-===4.7.2 Online Tutorial===
-===4.7.3 Troubleshooting Guide for Kareer Mart Administrator===
+===4.7.1 Tutorial for getting new password===
+There must be a restoring system for producing new password by providing a hint question.  
+===4.7.2 Validation of boarding passes===
+The entry pass is valid for only one visit.A specific identity is provided for the usage of entry pass. 
+===4.7.3 History of visitors===
+The history of visitors must be maintained in database so that active regulation can be done.
 ==4.8 Glossary== 
