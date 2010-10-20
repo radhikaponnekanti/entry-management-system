@@ -72,10 +72,29 @@ The Entry Management System validates the identity proof and reason of visit of 
 ===4.5.22 Resume Creation and Edit on the Web===
 ===4.5.23 Export Resume to PDF or Word===
 ==4.6 Other Product Requirements==
-===4.6.1 Applicable Standards===
+
+=== 4.6.1 Applicable Standards ===
+==== Legal/Regulatory ====
+==== Communication ====
+The system will use TCP/IP
+==== Platform ====
+The System will be built on the Microsoft Windows platform.
+==== Quality/Safety ====
+
 ===4.6.2 System Requirements===
-===4.6.3 Licensing, Security, and Installation===
-===4.6.4 Performance Requirements===
+
+The system will run on a cluster of web servers with the following specifications:
+ * Windows Server 2009
+ * Intel Core2Deo Processor
+ * 8GB of System Memory
+ * 2TB of Hard Disc space in a RAID 5 configuration
+ * Oracle 9i for data storage/processing
+=== 4.6.3 Licensing, Security, and Installation ===
+No licensing or installation will be required. The only security required is the purchase of a SSL certificate to secure the web address and a business class firewall to secure the network.
+=== 4.6.4 Performance Requirements ===
+ * The system should be user interactive as touch screen facility must be provided.
+ * The Guidelines of the system must be provided inbuilt in the system.  
+
 ==4.7 Documentation Requirements==
 ===4.7.1 Online Help Index===
 ===4.7.2 Online Tutorial===
