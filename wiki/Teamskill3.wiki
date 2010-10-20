@@ -1,5 +1,8 @@
-4.0 Team Skill 3¶
-4.1 Introduction¶
-This document maps out the user needs and features of the Kareer Mart System. 
-4.1.1 Purpose of Vision Document¶
-Kareer Mart aims to provide both Job Seekers and Recruiters the tools to actively manage their job search and recruitment needs respectively. This document defines all expected high-level functionality of the Kareer Mart system. 
+=Teamskill3=
+
+==4.1 Introduction==
+This document maps out the user needs and features of the Entry Management System. 
+
+===4.1.1 Purpose of Vision Document===
+
+Entry Management System aims to provides both visitors and employees in an organization a tool that authorizes every visitors identity and avoids security breaches. This document defines all expected high-level functionality of the Entry Management system. 
