@@ -1,4 +1,4 @@
-=Teamskill3=
+=4.0 Teamskill3=
 <wiki:toc max_depth="3" />
 
 
@@ -43,9 +43,11 @@ The capabilities of the system refers to the features listed in the Team Skill2.
 
 ===4.3.3 Assumptions and Dependencies===
 *Assumptions*
+
 As a development team, legal and regulatory regulations are not considered. It is assumed that all the hardware requirements are taken care of by the stakeholders.  
 
 *Dependencies*
+
 Each phase is completed with an acceptance test by the stakeholders. The dependency on hardware requirements is to be considered by the stakeholders. 
 
 ===4.3.4 Cost and Pricing===
