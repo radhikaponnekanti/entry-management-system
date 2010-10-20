@@ -7,9 +7,24 @@ This document maps out the user needs and features of the Entry Management Syste
 
 ===4.1.1 Purpose of Vision Document===
 
-Entry Management System aims to provides both visitors and employees in an organization a tool that authorizes every visitors identity and avoids security breaches. This document defines all expected high-level functionality of the Entry Management system.
+Entry Management System aims to provides both visitors and employees in an organization a tool that authorizes every visitors identity and avoids security breaches. This document 
+defines all expected high-level functionality of the Entry Management system.
 
 ===4.1.2 Product Overview===
+
+The existing system to allow any visitors into a building, is to manually verify the authorization of the visitor. The proposed system enables the application to perform the verification and authorization.
+Entry Management System1.0 will be the first version of the Entry Management system. Entry Management system 1.0 will perform authorization of visitors. Functionality included in this version is listed below: 
+
+
+This version will not include advanced security features like access levels, password protection and encryption. Compatibility with non-Windows systems will not be addressed in this version. 
+
+The intention of this product is to provide tools for job seekers and job providers to actively participate in the job search process. Benefits of this product is the ability to provide multiple professional profiles for a user, as well as dynamic web based communication tools that allow both recruiters and job seekers to be more proactive in the job search process. 
+
+
+
+
+The Entry Management System validates the identity proof and reason of visit of the visitor, issues a visitor pass and thus authorizes the entry.
+
 ===4.1.3 References===
 ==4.2 User Description==
 ===4.2.1 User/Market Demographics===
