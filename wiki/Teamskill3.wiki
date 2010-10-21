@@ -38,13 +38,18 @@ A description of the general user needs is given below.For more detailed user ne
 
 ===4.2.1 User Profiles===
 The key users of the system are employees and the visitors of the organization.
+
 *Visitors*
+
 _Technical background_
+
 Inexperienced:These users dont know how to operate the system,so help option is provided to operate the system.
 Experienced:These users know how to operate the system so that they can easily use the new system.
 
 *Employees*
+
 _Technical background_
+
 Employees may be unfamiliar with the functionalities that Entry management system provides ,so emphasis on ease of use will focus on the employees,and a user friendly system is necessary.
 
 ===4.2.2 User Environment===
@@ -144,7 +149,7 @@ If the visitor wants to know his profile he can have a copy of printout.
 The system will use TCP/IP
 ==== Platform ====
 The System will be built on the Microsoft Windows platform.
-==== Quality/Safety ====
+
 
 ===4.6.2 System Requirements===
 
@@ -167,4 +172,3 @@ There must be a restoring system for producing new password by providing a hint 
 The entry pass is valid for only one visit.A specific identity is provided for the usage of entry pass. 
 ===4.7.3 History of visitors===
 The history of visitors must be maintained in database so that active regulation can be done.
-==4.8 Glossary== 
