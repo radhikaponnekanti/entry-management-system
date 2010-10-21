@@ -33,16 +33,21 @@ Business process definition and requirements
 Entry Management System Team Skill 1 
 Entry Management System Team Skill 2
 
+==4.2 User Description==
 
-4.2.3 User Environment
+===4.2.1 User/Market Demographics===
+
+===4.2.2 User Profiles===
+
+===4.2.3 User Environment===
 Entry management system is a system integrated software.The visitors must be able to access the system in a very easy manner,some of the guidelines for usage of the system must be provided. 
 
-4.2.4 Key User Needs
+===4.2.4 Key User Needs===
 The Key user needs are similar to to the bussiness process definition and requirements for Entry management system. The main need is to empower both employees to secure the data in the organization and visitors to authenticate their identity so that no security problem arises, by giving them the user friendly tools to do so. As Listed in the team skill 1 problem definition, this includes: 
 
 
 
-4.2.5 Alternatives and Competition
+===4.2.5 Alternatives and Competition===
 The following are the alternatives and competitions for the Entry management system: 
 
 Biometric security system
