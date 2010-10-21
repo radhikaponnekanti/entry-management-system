@@ -147,10 +147,10 @@ If the visitor wants to know his profile he can have a copy of printout.
 
 === 4.6.1 Applicable Standards ===
 
-=== Platform===
+*Platform*
 The System will be built on the Microsoft Windows platform.
 
-=== Safety===
+*Safety*
 Password security levels are high.
 
 ===4.6.2 System Requirements===
