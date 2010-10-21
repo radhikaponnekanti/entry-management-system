@@ -34,23 +34,29 @@ Entry Management System Team Skill 1
 Entry Management System Team Skill 2
 
 ==4.2 User Description==
+A description of the general user needs is given below.For more detailed user needs,please refer to the business process definition and requirements of the wiki page.
 
-===4.2.1 User/Market Demographics===
+===4.2.1 User Profiles===
+The key users of the system are employees and the visitors of the organization.
+*Visitors*
+_Technical background_
+Inexperienced:These users dont know how to operate the system,so help option is provided to operate the system.
+Experienced:These users know how to operate the system so that they can easily use the new system.
 
-===4.2.2 User Profiles===
+*Employees*
+_Technical background_
+Employees may be unfamiliar with the functionalities that Entry management system provides ,so emphasis on ease of use will focus on the employees,and a user friendly system is necessary.
 
-===4.2.3 User Environment===
+===4.2.2 User Environment===
 Entry management system is a system integrated software.The visitors must be able to access the system in a very easy manner,some of the guidelines for usage of the system must be provided. 
 
-===4.2.4 Key User Needs===
-The Key user needs are similar to to the bussiness process definition and requirements for Entry management system. The main need is to empower both employees to secure the data in the organization and visitors to authenticate their identity so that no security problem arises, by giving them the user friendly tools to do so. As Listed in the team skill 1 problem definition, this includes: 
+===4.2.3 Key User Needs===
+The Key user needs are similar to to the bussiness process definition and requirements for Entry management system. The main need is to empower both employees to secure the data in the organization and visitors to authenticate their identity so that no security problem arises, by giving them the user friendly tools to do so. 
 
-
-
-===4.2.5 Alternatives and Competition===
+===4.2.4 Alternatives and Competition===
 The following are the alternatives and competitions for the Entry management system: 
 
-Biometric security system
+*Biometric security system*
 Biometric security (identification) systems identify a human from a measurement of a physical characteristic or behavioral trait (for example, hand geometry, retinal scan, iris scan, fingerprint patterns, facial characteristics, DNA sequence characteristics, voice prints, and hand written signature) to determine or verify an identity.
 
  
