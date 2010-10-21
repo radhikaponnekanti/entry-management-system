@@ -62,6 +62,7 @@ The Key user needs are similar to to the bussiness process definition and requir
 The following are the alternatives and competitions for the Entry management system: 
 
 *Biometric security system*
+
 Biometric security (identification) systems identify a human from a measurement of a physical characteristic or behavioral trait (for example, hand geometry, retinal scan, iris scan, fingerprint patterns, facial characteristics, DNA sequence characteristics, voice prints, and hand written signature) to determine or verify an identity.
 
  
@@ -141,15 +142,16 @@ The time to time updation of visitors are made in the database
 The necessary information is provided to the visitors about the employees
 ===4.5.16 Printout facility===
 If the visitor wants to know his profile he can have a copy of printout.
+
 ==4.6 Other Product Requirements==
 
 === 4.6.1 Applicable Standards ===
-==== Legal/Regulatory ====
-==== Communication ====
-The system will use TCP/IP
-==== Platform ====
+
+=== Platform===
 The System will be built on the Microsoft Windows platform.
 
+=== Safety===
+Password security levels are high.
 
 ===4.6.2 System Requirements===
 
@@ -159,8 +161,10 @@ The system will run on a cluster of web servers with the following specification
  * 8GB of System Memory
  * 2TB of Hard Disc space in a RAID 5 configuration
  * Oracle 9i for data storage/processing
+
 === 4.6.3 Licensing, Security, and Installation ===
-No licensing or installation will be required. The only security required is the purchase of a SSL certificate to secure the web address and a business class firewall to secure the network.
+License must be given by the development team .Installation of the product is neccesary. 
+
 === 4.6.4 Performance Requirements ===
  * The system should be user interactive as touch screen facility must be provided.
  * The Guidelines of the system must be provided inbuilt in the system.  
