@@ -1,4 +1,4 @@
-=4.0 Teamskill3=
+=4. Teamskill3=
 <wiki:toc max_depth="3" />
 
 
