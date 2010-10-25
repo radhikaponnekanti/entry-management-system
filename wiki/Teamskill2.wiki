@@ -102,7 +102,9 @@ http://entry-management-system.googlecode.com/files/session.JPG
 
 ===2.4.1 Features Collected at the Requirements Workshop===
 
-http://entry-management-system.googlecode.com/files/NEW%20FEATURE.jpg==3.0 Use-Case Model Survey==
+http://entry-management-system.googlecode.com/files/NEW%20FEATURE.jpg
+
+==3.0 Use-Case Model Survey==
 
 ===3.1 Use Cases for the Entry management system Project===
 
