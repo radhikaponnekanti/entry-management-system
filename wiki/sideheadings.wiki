@@ -49,7 +49,7 @@
     * [Teamskill2#2.4.1_Features_Collected_at_the_Requirements_Workshop 2.4.1 Features Collected at the Requirements Workshop]
    * [Teamskill2#3.0_Use_Case_Model_Survey 3.0 Use Case Model Survey]
     * [Teamskill2#3.1_Use_Cases_for_the_Entry_management_system_Project 3.1 Use Cases for the Entry management system Project]
- * [Teamskill3#4.0_Teamskill3 4.0 Teamskill3]   
+ * [Teamskill3#4_Teamskill3 4 Teamskill3]   
   * [Teamskill3#4.1_Introduction 4.1 Introduction]
    * [Teamskill3#4.1.1_Purpose_of_Vision_Document 4.1.1 Purpose of Vision Document]
    * [Teamskill3#4.1.2_Product_Overview 4.1.2 Product Overview]
