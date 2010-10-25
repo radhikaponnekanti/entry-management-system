@@ -94,7 +94,6 @@
     * [Teamskill3#4.5.18_Automatic_door_opening_system 4.5.18 Automatic door opening system]
     * [Teamskill3#4.5.19_Generating_error_sounds 4.5.19 Generating error sounds]
     * [Teamskill3#4.5.20_Forwarding_new_visitor_to_the_next_system 4.5.20 Forwarding new visitor to the next system]
-
   * [Teamskill3#4.6_Other_Product_Requirements 4.6 Other Product Requirements]
    * [Teamskill3#4.6.1_Applicable_Standards 4.6.1 Applicable Standards]
    * [Teamskill3#4.6.2_System_Requirements 4.6.2 System Requirements]
