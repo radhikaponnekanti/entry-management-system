@@ -111,7 +111,7 @@ The requirements analyzed are handed over to the software team to start the elab
 
 ==4.5 Product Features==
 ===4.5.1 Automatic password generation===
-The password must be generated automatically by the system.
+The password must be generated automatically by the system to each and every visitor..
 ===4.5.2 System calling to particular employee===
 If the visitor wants to meet a particular  employee,the system must give an indication to the employee that some visitor wants to meet him.
 ===4.5.3 User friendly interactive screen===
@@ -119,29 +119,38 @@ The interface must be easy to understand for visitors to operate.
 ===4.5.4 Account creation with photo of visitors===
 When a visitors account is created the photograph of the visitor is taken through the integrated webcam 
 ===4.5.5 Mailing to respected employee===
-The employees must be sent a mail if the visitor wants to pass some message
+The administration should mail the employee regarding the visitors entry.
 ===4.5.6 Checking timings of employee===
 The visitors must be provided the available times of employees.
 ===4.5.7 Issuing boarding pass===
-The system should automatically generate the boarding pass after authentication
+The system should automatically generate the boarding pass after authentication to the visitors
 ===4.5.8 Retrieving old visitor details===
 Every visitor details are maintained in the database so that retrieval of data can be made more effectively.  
 ===4.5.9 Password Protection===
-The password is protected by using a 
+The password should be protected using some encryption techniques. 
 ===4.5.10 System should be inter connected===
 The every system should be interconnected in the building.
 ===4.5.11 Cancellation of boarding pass while returning back===
-The boarding pass must be cancelled by the when a visitor returns back. 
+The boarding pass must be cancelled when a visitor returns back. 
 ===4.5.12 Return check===
-The authentication check is also made while coming out of the building
+The authentication check for the visitors is also made while coming out of the building
 ===4.5.13 System access levels===
-Different access levels are provided to different users
+Different access levels are provided to different users,for example the visitors should not edit the data of an organization.
 ===4.5.14 Editing and updating profile of visitors===
 The time to time updation of visitors are made in the database
 ===4.5.15 Providing the history of employee to visitor===
 The necessary information is provided to the visitors about the employees
 ===4.5.16 Printout facility===
 If the visitor wants to know his profile he can have a copy of printout.
+===4.5.17 Sending history of visitors to employees===
+The history of visitors like name,address,etc are mailed to the respected employee.
+===4.5.18 Automatic door opening system===
+The doors of an organization must be opened whenever the visitor keeps his boarding pass.
+===4.5.19 Generating error sounds===
+Whenever the visitor types wrong password or showing wrong boarding pass error sounds are generated.
+===4.5.20 Forwarding new visitor to next system===
+As there are many number of new visitors who comes to an organization ,instead of spending lot of time with that visitor he has to be shifted to next system.
+
 
 ==4.6 Other Product Requirements==
 
