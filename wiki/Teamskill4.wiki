@@ -22,4 +22,5 @@ Table A-2 v1.0 Optional Features if time permits
 http://entry-management-system.googlecode.com/files/if%20time%20permits.jpg
 
 Table A-3 v2.0 features
+
 http://entry-management-system.googlecode.com/files/version2.jpg
