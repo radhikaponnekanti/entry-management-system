@@ -1,13 +1,5 @@
-#summary One-sentence summary of this page.
+=5.Teamskill4=
 
-= Introduction =
+==Managing the Scope== 
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+After the requirements workshop, our team was chartered with the responsibility to assess the level of effort for each feature and to come up with a first draft of the v1.0 baseline.The team went on to perform the suggested scope management activities, with the results shown in following tables. 
