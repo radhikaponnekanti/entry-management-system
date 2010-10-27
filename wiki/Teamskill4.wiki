@@ -17,4 +17,4 @@ Table A-1 Baseline for Entry Management System v1.0 Features
 
 http://entry-management-system.googlecode.com/files/v1.0.jpg
 http://entry-management-system.googlecode.com/files/version1.jpg
-http://entry-management-system.googlecode.com/files/in%20future.jpg
+http://entry-management-system.googlecode.com/files/version2.jpg
