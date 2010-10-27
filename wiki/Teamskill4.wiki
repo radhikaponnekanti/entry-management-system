@@ -4,3 +4,7 @@
 <wiki:toc max_depth="3" />
 
 After the requirements workshop, our team was chartered with the responsibility to assess the level of effort for each feature and to come up with a first draft of the v1.0 baseline.The team went on to perform the suggested scope management activities, with the results shown in following tables. 
+
+===5.1 Scope Management==
+
+Table A Prioritized Entry Management System Features List with Effort and Risk
