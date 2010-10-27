@@ -1,5 +1,5 @@
 =5.Teamskill4=
-==Managing the Scope== 
+Managing the Scope 
 
 <wiki:toc max_depth="3" />
 
