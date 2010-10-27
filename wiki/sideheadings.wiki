@@ -103,3 +103,6 @@
    * [Teamskill3#4.7.1_Tutorial_for_getting_new_password 4.7.1 Tutorial for getting new password]
    * [Teamskill3#4.7.2_Validation_of_boarding_passes 4.7.2 Validation of boarding passes ]
    * [Teamskill3#4.7.3_History_of_vistors 4.7.3 History of vistors ]
+ * [Teamskill4#5_Teamskill4 5 Teamskill4]
+  * [Teamskill4#5.1_Scope_Management 5.1 Scope Management]
+  * [Teamskill4#5.2_Baseline_Features_for_v1.0 5.2 Baseline Features for v1.0]
