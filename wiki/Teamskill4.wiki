@@ -8,3 +8,5 @@ After the requirements workshop, our team was chartered with the responsibility 
 ===5.1 Scope Management==
 
 Table A Prioritized Entry Management System Features List with Effort and Risk
+
+http://entry-management-system.googlecode.com/files/effort%20risk.jpg
