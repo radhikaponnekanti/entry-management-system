@@ -1,2 +1,81 @@
+
+<wiki:toc max_depth="3" />
 =6.Teamskill5=
 ===Refining the system definition==
+
+==6.1 Entry Management System Use cases==
+
+==6.2 System Supplementary Specification==
+
+===6.2.1 Introduction====
+
+The Supplementary Specifications capture the system requirements that are not captured in the use cases or other documents. Such requirements include:
+* Legal and regulatory requirements and application standards.
+* Quality attributes of the system to be built, including usability, reliability, performance and supportability requirements.
+* Other requirements such as operating systems and environments, compatibility requirements, and design constraints. 
+
+===6.2.2 Functionality===
+
+* System should generate a unique password to every visitor
+* Ability to update and keep all the information in database.
+
+===6.2.3 Usability===
+
+* The system should be user friendly and self explanatory
+
+===6.2.4 Reliability===
+
+* The system is available 100% for the user and is used 24 hrs a day and 365 days a year. The system shall be operational 24 hours a day and 7 days a week.
+* Even if the system fails, the system will be recovered back up within an hour or less. 
+* The system shall be constantly operational.
+* User records and data shall under no circumstances be deleted or lost, unless at the consent of the user.
+* There shall be routine redundant data backups of all user information. This shall be made available at all times.
+
+===6.2.5 Performance===
+     
+* Searches on entry management shall be completed within 5 seconds on the processing system.
+* All search, lookup and sort operations must be completed with a complexity of at O(n2) or better.
+* A complete search operation must take no longer than 15 seconds. 
+* The entry management system must be able to store at least 10 Terabytes of data.
+* The system shall be able to store at least 1,000,000 user profiles
+    
+
+===6.2.6 Supportability===
+
+* The coding standards  and naming conventions should be as per the american standards
+
+===6.2.7 Design Constraints===
+
+* All class libraries shall represent functional modules of the entry management system.
+* Adequate modularity is required
+* The architecture shall allow for proper hierarchy of functionality 
+* We make use of the available Google web Tool kits .
+
+===6.2.8 Documentation Requirements===
+
+* The User Manual describes the use of the system . The user manual should be available as a hard copy and also as online help. 
+
+===6.2.9 Purchased Components===
+
+* All software used for creating and maintaining the must be purchased at retail price, and/or have an active license. 
+
+===6.2.10 Interfaces===
+
+* The user interfaces shall consist of several HTML screens
+* The communication shall be IP based.
+* LAN will be used for entering and updating the data in database.
+
+
+===6.2.11 Licensing and Security Requirements===
+
+* Software is not web-application, so installation is required for the system.
+* There are some terms and conditions  set forth the rights being licensed for Applicant for use of entry management system . These rights are the only rights Applicant has to the entry management, so if Applicant do not agree to the terms and conditions, then they cannot use it.
+* User account is Password protected and passwords should have a limited life. 
+
+===6.2.12 International and Localization===
+
+* The system as of now is used only in India and America .All aspects of the system will be in english language only.
+
+===6.2.13 Installation and Deployment===
+
+* The system must be installed before it is used . 
