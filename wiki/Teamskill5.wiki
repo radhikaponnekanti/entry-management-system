@@ -14,6 +14,10 @@ http://entry-management-system.googlecode.com/files/usecaseflow1234567.jpg
 
 http://entry-management-system.googlecode.com/files/boardingpass23.jpg
 
+*Use case for creating account* 
+
+http://entry-management-system.googlecode.com/files/creationaccount.jpg
+
 ==6.2 System Supplementary Specification==
 
 ===6.2.1 Introduction====
