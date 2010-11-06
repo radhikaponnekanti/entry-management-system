@@ -12,7 +12,7 @@ http://entry-management-system.googlecode.com/files/usecaseflow1234567.jpg
 
 *Use case for issuing boarding pass*
 
-http://entry-management-system.googlecode.com/files/boardingpass.jpg
+http://entry-management-system.googlecode.com/files/boardingpass1.jpg
 
 ==6.2 System Supplementary Specification==
 
