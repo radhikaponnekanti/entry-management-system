@@ -1,6 +1,5 @@
-#summary Build the Right System
-=5.Teamskill4=
-*Managing the Scope* 
+=5.Teamskill6=
+* Build the Right System* 
 
 <wiki:toc max_depth="3" />
 
