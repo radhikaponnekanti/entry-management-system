@@ -1,4 +1,4 @@
-=7.0 Teamskill6=
+=7  Teamskill6=
 * Build the Right System* 
 
 <wiki:toc max_depth="3" />
