@@ -121,4 +121,7 @@
    * [Teamskill5#6.2.10_Interfaces 6.2.10 Interfaces]
    * [Teamskill5#6.2.11_Licensing_and_Security_Requirements 6.2.11 Licensing and Security Requirements]
    * [Teamskill5#6.2.12_International_and_Localization 6.2.12 International and Localization]
-   * [Teamskill5#6.2.13_Installation_and_Deployment 6.2.13 Installation and Deployment]  
+   * [Teamskill5#6.2.13_Installation_and_Deployment 6.2.13 Installation and Deployment]
+ * [Teamskill6#7.0_Teamskill6 7.0 Teamskill6] 
+   * [Teamskill6#7.1_Introduction 6.2.1 Introduction]
+   * [Teamskill5#6.2.2_Functionality 6.2.2 Functionality]  
