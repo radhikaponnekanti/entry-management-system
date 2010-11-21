@@ -1,6 +1,9 @@
 #summary Build the Right System
-<wiki:toc max_depth="3"/>
-= 7.0 TeamSkill6 =
+=5.Teamskill4=
+*Managing the Scope* 
+
+<wiki:toc max_depth="3" />
+
 == 7.1 Retrieving visitor account ==
 
 *Description:*
