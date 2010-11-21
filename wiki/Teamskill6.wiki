@@ -7,3 +7,5 @@
 
 *Description:*
 This test case is used to test the retrieving account of the visitor's.
+
+http://entry-management-system.googlecode.com/files/Slide1111123.JPG
