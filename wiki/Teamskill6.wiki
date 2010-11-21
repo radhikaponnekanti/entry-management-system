@@ -1,3 +1,7 @@
 #summary Build the Right System
 <wiki:toc max_depth="3"/>
-=7.0 TeamSkill6=
+= 7.0 TeamSkill6 =
+== 7.1 Retrieving visitor account ==
+
+*Description:*
+This test case is used to test the retrieving account of the visitor's.
