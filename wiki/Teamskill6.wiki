@@ -21,3 +21,5 @@ http://entry-management-system.googlecode.com/files/2345343434.JPG
 
 *Description:*
 This test case is used to check whether the boarding pass is issued to a right person or not.
+
+http://entry-management-system.googlecode.com/files/testcase3.jpg
