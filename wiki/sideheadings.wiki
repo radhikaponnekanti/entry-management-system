@@ -122,7 +122,7 @@
    * [Teamskill5#6.2.11_Licensing_and_Security_Requirements 6.2.11 Licensing and Security Requirements]
    * [Teamskill5#6.2.12_International_and_Localization 6.2.12 International and Localization]
    * [Teamskill5#6.2.13_Installation_and_Deployment 6.2.13 Installation and Deployment]
- * [Teamskill6#7.0_Teamskill6 7.0 Teamskill6] 
+ * [Teamskill6#7_Teamskill6 7 Teamskill6] 
    * [Teamskill6#7.1_Retrieving_visitor_account 7.1 Retrieving visitor account]
    * [Teamskill6#7.2_Creating_account_for_the_new_visitor 7.2 Creating account for the new visitor] 
    * [Teamskill6#7.3_Issuing_boarding_pass 7.3 Issuing boarding pass]
