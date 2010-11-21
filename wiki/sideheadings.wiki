@@ -124,4 +124,5 @@
    * [Teamskill5#6.2.13_Installation_and_Deployment 6.2.13 Installation and Deployment]
  * [Teamskill6#7.0_Teamskill6 7.0 Teamskill6] 
    * [Teamskill6#7.1_Retrieving_visitor_account 7.1 Retrieving visitor account]
-   * [Teamskill5#6.2.2_Functionality 6.2.2 Functionality]  
+   * [Teamskill6#7.2_Creating_account_for_the_new_visitor 7.2 Creating account for the new visitor] 
+   * [Teamskill6#7.3_Issuing_boarding_pass 7.3 Issuing boarding pass]
