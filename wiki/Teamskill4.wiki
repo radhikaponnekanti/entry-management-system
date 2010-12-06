@@ -11,7 +11,7 @@ Table A Prioritized Entry Management System Features List with Effort and Risk
 
 http://entry-management-system.googlecode.com/files/featuresall.jpg
 
-e Features for v1.0==
+==5.2 Baseline Features for v1.0==
 
 Table A-1 Baseline for Entry Management System v1.0 Features
 
