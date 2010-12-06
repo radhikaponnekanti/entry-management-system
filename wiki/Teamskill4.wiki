@@ -15,7 +15,7 @@ http://entry-management-system.googlecode.com/files/effort%20risk.jpg
 
 Table A-1 Baseline for Entry Management System v1.0 Features
 
-http://entry-management-system.googlecode.com/files/v1.0.jpg
+http://entry-management-system.googlecode.com/files/first.JPG
 
 Table A-2 v1.0 Optional Features if time permits
 
