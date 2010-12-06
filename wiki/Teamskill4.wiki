@@ -9,9 +9,9 @@ After the requirements workshop, our team was chartered with the responsibility 
 
 Table A Prioritized Entry Management System Features List with Effort and Risk
 
-http://entry-management-system.googlecode.com/files/effort%20risk.jpg
+http://entry-management-system.googlecode.com/files/featuresall.jpg
 
-==5.2 Baseline Features for v1.0==
+e Features for v1.0==
 
 Table A-1 Baseline for Entry Management System v1.0 Features
 
