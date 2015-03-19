@@ -1,0 +1,26 @@
+# 5.Teamskill4 #
+**Managing the Scope**
+
+
+
+After the requirements workshop, our team was chartered with the responsibility to assess the level of effort for each feature and to come up with a first draft of the v1.0 baseline.The team went on to perform the suggested scope management activities, with the results shown in following tables.
+
+## 5.1 Scope Management ##
+
+Table A Prioritized Entry Management System Features List with Effort and Risk
+
+![http://entry-management-system.googlecode.com/files/featuresall.jpg](http://entry-management-system.googlecode.com/files/featuresall.jpg)
+
+## 5.2 Baseline Features for v1.0 ##
+
+Table A-1 Baseline for Entry Management System v1.0 Features
+
+http://entry-management-system.googlecode.com/files/first.JPG
+
+Table A-2 v1.0 Optional Features if time permits
+
+http://entry-management-system.googlecode.com/files/second.JPG
+
+Table A-3 v2.0 features
+
+http://entry-management-system.googlecode.com/files/third.JPG

@@ -1,0 +1,25 @@
+# 7  Teamskill6 #
+**Build the Right System**
+
+
+
+## 7.1 Retrieving visitor account ##
+
+**Description:**
+This test case is used to test the retrieving account of the visitor's.
+
+http://entry-management-system.googlecode.com/files/Slide1111123.JPG
+
+## 7.2 Creating account for the new visitor ##
+
+**Description:**
+This test case is used to test whether the visitor's account is created or not.
+
+http://entry-management-system.googlecode.com/files/2345343434.JPG
+
+## 7.3 Issuing visitor boarding pass ##
+
+**Description:**
+This test case is used to check whether the boarding pass is issued to a right person or not.
+
+![http://entry-management-system.googlecode.com/files/testcase3.jpg](http://entry-management-system.googlecode.com/files/testcase3.jpg)

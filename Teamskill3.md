@@ -1,0 +1,187 @@
+# 4 Teamskill3 #
+
+
+
+## 4.1 Introduction ##
+This document maps out the user needs and features of the Entry Management System.
+
+### 4.1.1 Purpose of Vision Document ###
+
+Entry Management System aims to provides both visitors and employees in an organization a tool that authorizes every visitors identity and avoids security breaches. This document
+defines all expected high-level functionality of the Entry Management system.
+
+### 4.1.2 Product Overview ###
+
+The existing system to allow any visitors into a building, is to manually verify the authorization of the visitor. The proposed system enables the application to perform the verification and authorization.
+Entry Management System1.0 will be the first version of the Entry Management system. Entry Management system 1.0 will perform authorization of visitors. Functionality included in this version is listed below:
+
+  * System automatically calling to respected employee when the new visitor arrives
+  * Creating account of the visitors with photo
+  * Issuing boarding pass to the visitors
+  * Cancellation of boarding pass while returning back
+  * Editing and updating the history of the employees
+  * Providing history of the visitors to the employees
+  * Automatic door opening system when an authorized boarding pass is used
+
+This version will not include advanced security features like access levels, password protection,printout facility, and encryption.
+The Entry Management System validates the identity proof and reason of visit of the visitor, issues a visitor pass and thus authorizes the entry.
+
+### 4.1.3 References ###
+This document references the following
+
+Business process definition and requirements
+Entry Management System Team Skill 1
+Entry Management System Team Skill 2
+
+## 4.2 User Description ##
+A description of the general user needs is given below.For more detailed user needs,please refer to the business process definition and requirements of the wiki page.
+
+### 4.2.1 User Profiles ###
+The key users of the system are employees and the visitors of the organization.
+
+**Visitors**
+
+_Technical background_
+
+Inexperienced:These users dont know how to operate the system,so help option is provided to operate the system.
+Experienced:These users know how to operate the system so that they can easily use the new system.
+
+**Employees**
+
+_Technical background_
+
+Employees may be unfamiliar with the functionalities that Entry management system provides ,so emphasis on ease of use will focus on the employees,and a user friendly system is necessary.
+
+### 4.2.2 User Environment ###
+Entry management system is a system integrated software.The visitors must be able to access the system in a very easy manner,some of the guidelines for usage of the system must be provided.
+
+### 4.2.3 Key User Needs ###
+The Key user needs are similar to to the bussiness process definition and requirements for Entry management system. The main need is to empower both employees to secure the data in the organization and visitors to authenticate their identity so that no security problem arises, by giving them the user friendly tools to do so.
+
+### 4.2.4 Alternatives and Competition ###
+The following are the alternatives and competitions for the Entry management system:
+
+**Biometric security system**
+
+Biometric security (identification) systems identify a human from a measurement of a physical characteristic or behavioral trait (for example, hand geometry, retinal scan, iris scan, fingerprint patterns, facial characteristics, DNA sequence characteristics, voice prints, and hand written signature) to determine or verify an identity.
+
+
+## 4.3 Product Overview ##
+
+### 4.3.1 Product Perspective ###
+The Entry Management system is a product intended to support employees to secure the data in the organization from an unauthorized user. The focus of the project is to provide user friendly and robust site for the visitors. Project aims to bring transparency and security for an organization . Product perspective is mainly to  design the site that will satisfy users completely.
+
+### 4.3.2 Summary of Capabilities ###
+The capabilities of the system refers to the features listed in the Team Skill2.The capabilities will be designed and developed according to the priority decided in the requirement workshop. We are also keen to discuss the same with our stakeholders to finalize the capabilities and decide on the iteration phases for each requirement. To summarize, we have the following capabilities our product will be able to perform. Entry management system will have capabilities like issuing boarding pass to the visitors,generating password,providing history of the visitors to the employee,cancelling of boarding passes.
+
+### 4.3.3 Assumptions and Dependencies ###
+**Assumptions**
+
+As a development team, legal and regulatory regulations are not considered. It is assumed that all the hardware requirements are taken care of by the stakeholders.
+
+**Dependencies**
+
+Each phase is completed with an acceptance test by the stakeholders. The dependency on hardware requirements is to be considered by the stakeholders.
+
+### 4.3.4 Cost and Pricing ###
+The team consisting of marketing Executives and System Analysts will analyze cost and pricing of the product. The cost of software’s purchased for interfacing; cost of wages to develop the product will be considered for the pricing. The factors of considered for calculation of cost are number of employees working on the project, number of hours covered in terms of effort, various taxes, supporting software tools cost etc . The approximate price to build the product is mentioned to the stakeholders verbally. The document tracking the expense and budget will be produced soon once the requirement capture is completed.
+
+## 4.4 Feature Attributes ##
+### 4.4.1 Status ###
+A shared folder is maintained a common and secure server to highlight the status of the project. The folder is accessible to privileged people in both developer and stakeholder team. Here all the requirement documents are maintained.
+
+### 4.4.2 Priority ###
+The priority features analyzed in the team skill2 and all the baseline requirements will be developed.
+
+### 4.4.3 Effort ###
+The development team is responsible to maintain a time sheet for each team member working in the project to put in the number of hours he/she worked.
+
+### 4.4.4 Risk ###
+The risk (if any) in developing each feature for the project is analyzed and documented.
+
+### 4.4.5 Stability ###
+Features are stable and any change in requirement from the stakeholder will be considered as enhancements. The stable and clear set of requirements are considered for the release in the first phase and ambiguous requirements are investigated more and taken in next phases.
+
+### 4.4.6 Target Release ###
+Release of phase 1 is likely to take 2 months i.e. phase 1 should be ready for acceptance test by December.
+
+### 4.4.7 Assigned To ###
+The requirements analyzed are handed over to the software team to start the elaboration phase for all the requirements that are feasible and clear in requirement statement.
+
+
+## 4.5 Product Features ##
+### 4.5.1 Automatic password generation ###
+The password must be generated automatically by the system to each and every visitor..
+### 4.5.2 System calling to particular employee ###
+If the visitor wants to meet a particular  employee,the system must give an indication to the employee that some visitor wants to meet him.
+### 4.5.3 User friendly interactive screen ###
+The interface must be easy to understand for visitors to operate.
+### 4.5.4 Account creation with photo of visitors ###
+When a visitors account is created the photograph of the visitor is taken through the integrated webcam
+### 4.5.5 Mailing to respected employee ###
+The administration should mail the employee regarding the visitors entry.
+### 4.5.6 Checking timings of employee ###
+The visitors must be provided the available times of employees.
+### 4.5.7 Issuing boarding pass ###
+The system should automatically generate the boarding pass after authentication to the visitors
+### 4.5.8 Retrieving old visitor details ###
+Every visitor details are maintained in the database so that retrieval of data can be made more effectively.
+### 4.5.9 Password Protection ###
+The password should be protected using some encryption techniques.
+### 4.5.10 System should be inter connected ###
+The every system should be interconnected in the building.
+### 4.5.11 Cancellation of boarding pass while returning back ###
+The boarding pass must be cancelled when a visitor returns back.
+### 4.5.12 Return check ###
+The authentication check for the visitors is also made while coming out of the building
+### 4.5.13 System access levels ###
+Different access levels are provided to different users,for example the visitors should not edit the data of an organization.
+### 4.5.14 Editing and updating profile of visitors ###
+The time to time updation of visitors are made in the database
+### 4.5.15 Providing the history of employee to visitor ###
+The necessary information is provided to the visitors about the employees
+### 4.5.16 Printout facility ###
+If the visitor wants to know his profile he can have a copy of printout.
+### 4.5.17 Sending history of visitors to employees ###
+The history of visitors like name,address,etc are mailed to the respected employee.
+### 4.5.18 Automatic door opening system ###
+The doors of an organization must be opened whenever the visitor keeps his boarding pass.
+### 4.5.19 Generating error sounds ###
+Whenever the visitor types wrong password or showing wrong boarding pass error sounds are generated.
+### 4.5.20 Forwarding new visitor to next system ###
+As there are many number of new visitors who comes to an organization ,instead of spending lot of time with that visitor he has to be shifted to next system.
+
+
+## 4.6 Other Product Requirements ##
+
+### 4.6.1 Applicable Standards ###
+
+**Platform**
+The System will be built on the Microsoft Windows platform.
+
+**Safety**
+Password security levels are high.
+
+### 4.6.2 System Requirements ###
+
+The system will run on a cluster of web servers with the following specifications:
+  * Windows Server 2009
+  * Intel Core2Deo Processor
+  * 8GB of System Memory
+  * 2TB of Hard Disc space in a RAID 5 configuration
+  * Oracle 9i for data storage/processing
+
+### 4.6.3 Licensing, Security, and Installation ###
+License must be given by the development team .Installation of the product is neccesary.
+
+### 4.6.4 Performance Requirements ###
+  * The system should be user interactive as touch screen facility must be provided.
+  * The Guidelines of the system must be provided inbuilt in the system.
+
+## 4.7 Documentation Requirements ##
+### 4.7.1 Tutorial for getting new password ###
+There must be a restoring system for producing new password by providing a hint question.
+### 4.7.2 Validation of boarding passes ###
+The entry pass is valid for only one visit.A specific identity is provided for the usage of entry pass.
+### 4.7.3 History of visitors ###
+The history of visitors must be maintained in database so that active regulation can be done.

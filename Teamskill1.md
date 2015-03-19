@@ -1,0 +1,51 @@
+
+## 2. TEAM SKILL 1 ##
+_**Analyzing the problem**_
+
+
+The five steps in problem analysis are:
+
+1.Gain agreement on problem definition
+
+2.Understand the root causes - problem behind the problem
+
+3.Indentify stakeholders and users
+
+4.Define the solution system boundary
+
+5.Identify the constraints to be imposed on the solution
+
+## 2.1 Gain agreement on the problem definition ##
+**Problem Statement**
+
+Table:1 Problem Statement for the Employees in an organization
+http://entry-management-system.googlecode.com/files/problemstmt.JPG
+
+
+
+## 2.2 Understand the root causes-the problem behind the problem ##
+By using the fishbone diagram we can identify the problems
+http://entry-management-system.googlecode.com/files/fishbone.JPG
+
+
+## 2.3 Identify the stakeholders and the users ##
+The following are the stakeholders and users for the software
+
+Table:2 Users survey
+
+http://entry-management-system.googlecode.com/files/users.JPG
+
+Table:3 Stakeholder survey
+
+http://entry-management-system.googlecode.com/files/stakeholder.JPG
+
+
+
+## 2.4 Define the solution system boundary ##
+The Administration and visitors for a office(company) interacts with the entry management system
+http://entry-management-system.googlecode.com/files/mgmt.JPG
+
+
+## 2.5 Identify the constraints to be imposed on the solution ##
+Table:4 Constraints on the entry management system
+http://entry-management-system.googlecode.com/files/constraints.JPG

@@ -1,0 +1,111 @@
+
+# 3.TEAM SKILL 2 #
+# Understanding User and Stakeholder Needs #
+## 1.0 Summary of User Needs as Collected from Interviews ##
+Interview involved the visitors who visits the organization, the employees and the administrator who maintains the database.The following are the outcomes from the interview:
+
+### 1.1 From visitors point of view: ###
+  * System should provide access control privilege
+  * System must be Attractive
+  * System should be user friendly
+  * Must be reliable
+  * System should correctly authorize the users
+  * System should provide boarding pass
+
+### 1.2 From administrator point of view ###
+  * The Database Access is only given administrator
+  * System should not incur any additional cost realted to physical infrastructure.
+  * System should not increase time spent on data entry.
+  * System shall provide access to manage(create, update, delete) the data
+  * Recovery option, at the times of human bugs and system crash.
+  * Ability to monitor software success
+  * System should keep track of past information
+
+### 1.3 From employees point of view ###
+  * System should check the authorization of every visitor
+  * System should not allow any visitor without checking(that is,every visitor should fill the details related to him), so that if any security problems occur then thry can check the details of visitors easily
+  * System should provide security so that no data should be loss from from organization
+  * Should call to the employee when new visitor arrives
+
+### 1.4 Interview notes ###
+
+What is the problem in present scenario?
+  * Manually checking the authority of a person who wants to enter into the office.
+  * Manually maintaining the records
+  * Security is not focused properly
+  * Its a time taking process
+
+what is required for this system to solve the problem?
+
+  * There should not be any security person to check the person who are entering into an office
+  * There should be an automated calling system ,so that whenever a new person wants to enter into the office for meeting a particular person in the office the system should automatically call
+  * System should be user-friendly
+
+who are the users?
+
+  * Employees working in the office and the visitors who wants to enter into the office.
+
+What is their educational background?
+
+  * Employees are educationally qualified and they have the knowledge of operating the system
+  * The system should give the guidelines of its usage to the new visitors.
+
+What are the security issues?
+
+  * The system should check the authorization of persons who are entering into an office
+
+What about access permission?
+  * There should be different access permissions provided to different persons who are working in the office
+  * Administrator should be given high level of access permissions so that he can give the authorizations who are entering into the office.
+
+What are the limitations?
+
+  * Every operating system should support the software.
+  * The system should work 24\*7
+
+How much time and cost you are expecting?
+
+  * The cost should be affordable and the system should be built within one months.
+
+
+## 2.0 The Requirements Workshop ##
+
+Several users and stakeholders attended the requirements workshop
+
+### 2.1 Attendees of Entry Management System Requirements Workshop ###
+
+http://entry-management-system.googlecode.com/files/workshop.JPG
+
+### 2.2 Warm-Up session ###
+
+The warm up session consisted the following :
+
+  * A memo encouraging the users and stakeholders to be creative
+  * Agenda
+  * Copies of selected interviews that have been conducted
+  * A summarized list of the needs that had been identified to date
+
+### 2.3 The Session ###
+
+The session was done in a class room after 6pm at the Gannon University. Pattison introduced the agenda for the meeting and the rules for the session.
+
+### 2.3.1 Entry Management System Requirements Workshop Structure ###
+
+http://entry-management-system.googlecode.com/files/wrksp.JPG
+
+### 2.3.2 Setting the Agenda ###
+
+Agenda for  Entry Management System Workshop
+http://entry-management-system.googlecode.com/files/session.JPG
+
+### 2.4 The Analysis of the Results ###
+
+### 2.4.1 Features Collected at the Requirements Workshop ###
+
+![http://entry-management-system.googlecode.com/files/features1.jpg](http://entry-management-system.googlecode.com/files/features1.jpg)
+
+## 3.0 Use-Case Model Survey ##
+
+### 3.1 Use Cases for the Entry management system Project ###
+
+http://entry-management-system.googlecode.com/files/usec.JPG
